@@ -25,7 +25,7 @@ public class Principal {
 		LogicaMetodos imp = new LogicaMetodos();
 
 		do {
-			System.out.println("***MENU PRINCIPAL");
+			System.out.println("***MENU PRINCIPAL***");
 			System.out.println("1.-ALTA");
 			System.out.println("2.-MOSTRAR");
 			System.out.println("3.-BUSCAR");
@@ -109,7 +109,7 @@ public class Principal {
 
 					// Editar---submenu numCasa, precio
 					do {
-						System.out.println("***SUB MENU PARA EDITAR");
+						System.out.println("***SUB MENU PARA EDITAR***");
 						System.out.println("1.-EDITAR NUM DE CASA");
 						System.out.println("2.-EDITAR PRECIO");
 						System.out.println("3.-REGRESAR A MENU PRINCIPAL");
@@ -256,7 +256,7 @@ public class Principal {
 				break;
 				
 			case 11:
-				System.out.println("Nos vemos !!");
+				System.out.println("Hasta la proxima !!");
 				break;
 
 			}
