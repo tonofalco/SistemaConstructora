@@ -23,6 +23,8 @@ public class Principal {
 
 		// Instancia de clase
 		LogicaMetodos imp = new LogicaMetodos();
+		
+		System.out.println("Trabajando en la segunda rama");
 
 		do {
 			System.out.println("***MENU PRINCIPAL***");
